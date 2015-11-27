@@ -1,4 +1,6 @@
 テスト2あ
 
 conflict
+
 local
+stash
